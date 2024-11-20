@@ -1,4 +1,4 @@
-# 🚀 5 Aulas Gratuitas de Desenvolvimento Back-end
+# 🚀 Imersão Desenvolvimento Back-end
 
 Este repositório contém os materiais e o código desenvolvido durante as cinco aulas gratuitas focadas no desenvolvimento Back-end. O objetivo principal é criar um projeto prático utilizando Node.js e explorar conceitos como APIs e Servidores, aproveitando a inteligência do Google Gemini.
 
